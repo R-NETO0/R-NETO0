@@ -50,9 +50,9 @@ Me chamo Reginaldo Neto, tenho 18 anos e sou natural de Aracaju. Concluí o ensi
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/R-NETO0/R-NETO0/blob/output/github-contribution-grid-snake.svg)
 
-###
+![Snake animation](https://github.com/R-NETO0/R-NETO0blob/output/github-contribution-grid-snake.svg)
 
 
 
