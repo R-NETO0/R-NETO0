@@ -2,8 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Reginaldo Neto, tenho 18 anos e sou natural de Aracaju. Concluí o ensino médio em 2024. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unit. Sou fanático por tecnologia e compartilho meu conhecimento através do meu git-hub onde mostro as minhas criações de projetos web.
-
+Me chamo Reginaldo Neto, tenho 18 anos e sou natural de Aracaju. Concluí o ensino médio em 2024. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unit. Sou fanático por tecnologia e compartilho meu conhecimento através do meu GitHub onde mostro as minhas criações de projetos web.
 
 ---
 
@@ -33,7 +32,6 @@ Me chamo Reginaldo Neto, tenho 18 anos e sou natural de Aracaju. Concluí o ensi
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Python" 
@@ -45,6 +43,9 @@ Me chamo Reginaldo Neto, tenho 18 anos e sou natural de Aracaju. Concluí o ensi
 
 <br/>
 <br/>
+<br/>
+
+---
 
 ### 📊 Estatísticas
 
@@ -54,16 +55,16 @@ Me chamo Reginaldo Neto, tenho 18 anos e sou natural de Aracaju. Concluí o ensi
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=R-NETO0&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=R-NETOO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
+  <img 
       align="left" 
-      alt="GitHub Stats" 
+      alt="Top Langs" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-NETO0&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-NETOO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
+
 
 
