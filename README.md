@@ -45,9 +45,17 @@ Me chamo Reginaldo Neto, tenho 18 anos e sou natural de Aracaju. Concluí o ensi
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=R-NETO0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="140" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=R-NETO0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=R-NETO0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" 
+    height="140"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=R-NETO0&layout=compact&langs_count=5&theme=dracula" 
+    height="140"
+  />
 </div>
+
 
 
 ###
